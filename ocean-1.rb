@@ -1,5 +1,5 @@
-# Simple ocean
-live_loop :simple_ocean do
+# Ocean 1
+live_loop :ocean_1 do
   # 1. Randomize the Volume (amp) so some waves are stronger than others
   # 2. Randomize the Tone (cutoff) to vary between "deep" and "splashy" waves
   # 3. Randomize the Slide to change how fast the sound opens up
